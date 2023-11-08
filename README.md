@@ -51,5 +51,5 @@ I learned about using variables for colors, padding, etc.  I still have a lot to
 ## Author
 
 - Website - [Vincent Gruse](https://vincentgruse.github.io/)
-- LinkedIN = [Vincent Gruse](https://www.linkedin.com/in/vincentgruse/)
-- Frontend Mentor - [@grusvin10](https://www.frontendmentor.io/profile/grusvin10)
+- LinkedIn - [Vincent Gruse](https://www.linkedin.com/in/vincentgruse/)
+- Frontend Mentor - [@vincentgruse](https://www.frontendmentor.io/profile/vincentgruse)
